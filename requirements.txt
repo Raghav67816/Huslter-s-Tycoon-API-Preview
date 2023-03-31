@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+datetime
+pydantic[email]
+fastapi-jwt-auth
+passlib[bcrypt]
+pymongo
+trycourier

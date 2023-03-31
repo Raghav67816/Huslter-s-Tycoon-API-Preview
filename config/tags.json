@@ -1,0 +1,4 @@
+[
+    {"name": "Authenticator", "description": "Authentication mechanism to authenticate users"},
+    {"name": "User Manager", "description": "User manager to process requests related to users"}
+]
